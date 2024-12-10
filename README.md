@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Thanks to **Shri G. S. Institute of Technology & Science** for allowing the use of their logo and name in this project.
+
 - The **captcha image** and **background image** are sample placeholders. Feel free to replace them with actual resources that suit your project.
 - The design inspiration is based on modern, minimalistic login pages.
 
