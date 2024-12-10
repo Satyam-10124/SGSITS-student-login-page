@@ -19,7 +19,7 @@ This project is a simple and responsive **Student Portal Login Page** designed f
 
 ## File Structure
 
-/student-portal-login │ ├── assets/ │ ├── css/ │ │ └── styles.css # CSS file for styling the page │ ├── img/ │ │ ├── captcha.png # Captcha image (for display purposes) │ │ ├── college-logo.png # College logo image │ │ └── login-bg.png # Background image for the login page │ ├── index.html # The main HTML file for the login page └── README.md 
+/SGSITS-student-portal-login │ ├── assets/ │ ├── css/ │ │ └── styles.css # CSS file for styling the page │ ├── img/ │ │ ├── captcha.png # Captcha image (for display purposes) │ │ ├── college-logo.png # College logo image │ │ └── login-bg.png # Background image for the login page │ ├── index.html # The main HTML file for the login page └── README.md 
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ This project is a simple and responsive **Student Portal Login Page** designed f
 To get a local copy of this project up and running, follow these simple steps:
 
 1. **Clone the repository**:
-git clone https://github.com/Satyam-10124/student-portal-login.git
+git clone https://github.com/Satyam-10124/SGSITS-student-portal-login.git
 
 2. **Navigate to the project directory**:
 cd student-portal-login
